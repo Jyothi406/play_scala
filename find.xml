@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/home/jyothi/todo-api-DAO/app/models/Task.scala'" />
-    <option name="defaultScopeName" value="File '/home/jyothi/todo-api-DAO/app/models/Task.scala'" />
-    <option name="SEARCH_SCOPE" value="File '/home/jyothi/todo-api-DAO/app/models/Task.scala'" />
+    <option name="customScope" value="File '/home/jyothi/tattva-rest-play-slick1/tattva-rest-play-slick/app/models/daos/BaseDAO.scala'" />
+    <option name="defaultScopeName" value="File '/home/jyothi/tattva-rest-play-slick1/tattva-rest-play-slick/app/models/daos/BaseDAO.scala'" />
+    <option name="SEARCH_SCOPE" value="File '/home/jyothi/tattva-rest-play-slick1/tattva-rest-play-slick/app/models/daos/BaseDAO.scala'" />
   </component>
 </application>
